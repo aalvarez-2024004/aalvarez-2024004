@@ -65,9 +65,8 @@ const adrian = {
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aalvarez-2024004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=cccccc&disable_animations=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvarez-2024004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=61dafb&text_color=cccccc&disable_animations=true" />
-</div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aalvarez-2024004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=cccccc&include_all_commits=true" />
+</div
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalvarez-2024004&theme=radical&hide_border=true&background=0d1117&ring=61dafb&fire=ff7b7b&currStreakLabel=61dafb" />
 
